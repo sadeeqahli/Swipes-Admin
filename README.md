@@ -1,10 +1,10 @@
-# 🍽️ TastySwipe Admin
+# 🍽️ Swipes Admin
 
-An admin dashboard for managing the **TastySwipe** platform — a food discovery and recipe-swiping mobile app.
+An admin dashboard for managing the **Swipes** platform — a food discovery and recipe-swiping mobile app.
 
 ## Overview
 
-TastySwipe Admin provides a web-based control panel for managing all aspects of the TastySwipe platform, including:
+Swipes Admin provides a web-based control panel for managing all aspects of the Swipes platform, including:
 
 - 📋 **Restaurant & Recipe Management** — Add, edit, and remove food listings
 - 👥 **User Management** — View, moderate, and manage user accounts
