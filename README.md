@@ -62,8 +62,8 @@ tastyswipe-admin/
 
 ```bash
 # Clone the repo
-git clone https://github.com/sadeeqahli/TastySwipe-Admin.git
-cd TastySwipe-Admin
+git clone https://github.com/sadeeqahli/Swipes-Admin.git
+cd Swipes-Admin
 
 # Install dependencies
 npm install
@@ -93,7 +93,7 @@ NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 
 ## Related
 
-- 📱 [TastySwipe Mobile App](https://github.com/sadeeqahli/TastySwipe) — The React Native / Expo client app
+- 📱 [Swipes Mobile App](https://github.com/sadeeqahli/Swipes) — The React Native / Expo client app
 
 ## License
 
